@@ -1,0 +1,10 @@
+{
+  "storage":{
+    druid : {
+      "type" : "druid",
+      "brokerAddress" : "http://eventstorebroker:8082",
+      "coordinatorAddress": "http://eventstorecoordinator:8081",
+      "enabled" : true
+    }
+  }
+}
