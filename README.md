@@ -1,4 +1,5 @@
 # NOTE - This branch of drill has a working connector to [Druid](http://druid.io/). Ask me if you need help setting it up.
+Active PR with Apache Drill https://github.com/apache/drill/pull/1888
 
 # Apache Drill
 
