@@ -28,7 +28,7 @@
   <name>contrib/jdbc-storage-plugin</name>
 
   <properties>
-    <mysql.connector.version>5.1.36</mysql.connector.version>
+    <mysql.connector.version>8.0.28</mysql.connector.version>
     <derby.database.name>drill_derby_test</derby.database.name>
     <mysql.database.name>drill_mysql_test</mysql.database.name>
   </properties>
